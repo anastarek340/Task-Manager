@@ -1,2 +1,23 @@
-# Task-Manager
-# Task Manager (PHP &amp; MySQL)  Simple CRUD project using PHP and MySQL.  ## Features - Add tasks - View tasks - Delete tasks - Update tasks  ## Technologies - PHP - MySQL - HTML - CSS  ## Author Anas Tarek Student at El Sewedy Technical Academy
+# Task Manager
+
+Simple **CRUD web application** built using **PHP & MySQL** to manage tasks.
+
+## Features
+
+* Add new tasks
+* View all tasks
+* Update existing tasks
+* Delete tasks
+
+## Technologies Used
+
+* PHP
+* MySQL
+* HTML
+* CSS
+
+## Project Purpose
+
+This project was created to practice **CRUD operations** and **database connection using PHP and MySQL**.
+
+
